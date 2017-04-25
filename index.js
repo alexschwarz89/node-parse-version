@@ -1,5 +1,5 @@
-module.exports = function(cb) {
-    var vparts = version.split('.');
+module.exports = function(versionString, cb) {
+    var vparts = versionString.split('.');
     if (vparts.length != 4) return cb(new Error("version format isn't valid (must be `*.*.*.*`)")); 
     else {
         try {
