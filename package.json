@@ -1,0 +1,25 @@
+{
+  "name": "parse-version",
+  "version": "0.5.0",
+  "description": "Parsing four number versions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloisdeniel/node-parser-version.git"
+  },
+  "keywords": [
+    "parse",
+    "version",
+    "four",
+    "digits"
+  ],
+  "author": "Aloïs Deniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aloisdeniel/node-parser-version/issues"
+  },
+  "homepage": "https://github.com/aloisdeniel/node-parser-version#readme"
+}
