@@ -1,6 +1,6 @@
 {
   "name": "parse-version",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Parsing four number versions.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aloisdeniel/node-parser-version.git"
+    "url": "git+https://github.com/aloisdeniel/node-parse-version.git"
   },
   "keywords": [
     "parse",
@@ -19,7 +19,7 @@
   "author": "Aloïs Deniel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aloisdeniel/node-parser-version/issues"
+    "url": "https://github.com/aloisdeniel/node-parse-version/issues"
   },
-  "homepage": "https://github.com/aloisdeniel/node-parser-version#readme"
+  "homepage": "https://github.com/aloisdeniel/node-parse-version#readme"
 }
