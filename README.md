@@ -12,7 +12,7 @@ $ npm install --save parse-version
 
 ```js
 var parseVersion = require('parse-version');
-var version = parseVersion(`4.5.6.7`);
+var version = parseVersion('2.5.6.7'); // { major: 2, minor: 5, patch: 6, build: 7 }
 ```
 
 ## Copyright and license
